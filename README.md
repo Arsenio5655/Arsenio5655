@@ -2,7 +2,7 @@
 
 OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur</strong>, me conheça lendo mais abaixo 👇 👨🏻‍💻 
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 🎓 Estudando {seu curso} no {faculdade}.
 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
