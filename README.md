@@ -1,3 +1,7 @@
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ1XS3hFEx-d7gqW4EGcQ9z-cBorVZvCjVA&usqp=CAU" width="200px" />
+
+
 <h1 align="center">Arthur H. Souza</h1>
 
 OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me conheça lendo mais abaixo 👇 👨🏻‍💻 
