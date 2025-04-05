@@ -1,4 +1,4 @@
-# [Arthur] <img src="![image (https://github.com/user-attachments/assets/4dc60039-9053-452c-bfb6-aaefeabaff8c)]"width="30px">
+# [Arthur] 
 
 Eu sou <strong>Arthur</strong>, <strong>Arsenio e apenas um apelido. Gosto de jogar jogos, anime e RPG de mesa.</strong> 👨🏻‍💻 
 
