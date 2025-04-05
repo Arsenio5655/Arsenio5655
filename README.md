@@ -6,9 +6,7 @@ OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me c
 
 > 🎓 Estudando {Desenvolvendo de Sistemas} no {SenacMediotec}.
 
->  como {stack em que você trabalhar} na {empresa}.
-🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-Minhas Skills
+> 💼
 
 Aplicações e dados
 
