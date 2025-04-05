@@ -9,4 +9,4 @@ OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me c
 • 💼 Faço parte da startup ChromaSolar…
 **[TOP SECRET!]**
 
-# **Minhas Skills São:**
+## **Minhas Skills São:**
