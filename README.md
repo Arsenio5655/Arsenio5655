@@ -28,6 +28,5 @@ OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me c
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbhYxfG3xUEUw85su9SEsAWxl4Wr8j7y70hb-d5vo1Y8bWVSarQwrE1wJ&s=10" width="400px" />
 
-> ✨ "Porque sou eu que conheço os planos que tenho para vocês", diz o Senhor, "planos de fazê-los prosperar e não de causar dano, planos de dar a vocês esperança e um futuro."
-
+> ✨ "Porque sou eu que conheço os planos que tenho para vocês", diz o Senhor, "planos de fazê-los prosperar e não de causar dano, planos de dar a vocês esperança e um futuro." 
 Jeremias 29:11
