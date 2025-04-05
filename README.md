@@ -6,7 +6,7 @@ OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me c
 
 > 🎓 Estudando {Desenvolvendo de Sistemas} no {SenacMediotec}.
 
-> 💼
+> 💼 Faço parte sa Startup ChromaSolar <p><strong><span style="color:red;">[TOP SECRET!]</span></strong></p>
 
 Aplicações e dados
 
