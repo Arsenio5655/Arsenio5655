@@ -1,4 +1,4 @@
-<p align="center">Arthur</p>
+<p align="center"># Arthur H. Souza</p>
 
 Eu sou <strong>Arthur</strong>, <strong>Arsenio e apenas um apelido. Gosto de jogar jogos, anime e RPG de mesa.</strong> 👨🏻‍💻 
 
