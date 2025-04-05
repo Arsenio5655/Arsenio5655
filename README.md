@@ -1,6 +1,6 @@
 <h1 align="center">Arthur H. Souza</h1>
 
-OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur</strong>, me conheça lendo mais abaixo 👇 👨🏻‍💻 
+OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me conheça lendo mais abaixo 👇 👨🏻‍💻 
 
 > 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 🎓 Estudando {seu curso} no {faculdade}.
