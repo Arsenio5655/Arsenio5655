@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ1XS3hFEx-d7gqW4EGcQ9z-cBorVZvCjVA&usqp=CAU" width="400px" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ1XS3hFEx-d7gqW4EGcQ9z-cBorVZvCjVA&usqp=CAU" width="450px" />
 </div>
 
 <h1 align="center">Arthur H. Souza</h1>
