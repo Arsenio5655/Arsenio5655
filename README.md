@@ -26,4 +26,5 @@ OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me c
 ![Comunicação](https://img.shields.io/badge/Comunicação-2196F3?style=for-the-badge&logo=googlechat&logoColor=white)
 ![Criatividade](https://img.shields.io/badge/Criatividade-E91E63?style=for-the-badge&logo=sparkfun&logoColor=white)
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a803385-bcf4-4c0b-8504-81483c6d996b/deo7gfh-e614bb4a-3f80-4a5e-90c7-5a83bb9f9c7f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhODAzMzg1LWJjZjQtNGMwYi04NTA0LTgxNDgzYzZkOTk2YlwvZGVvN2dmaC1lNjE0YmI0YS0zZjgwLTRhNWUtOTBjNy01YTgzYmI5ZjljN2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FsmKkPeXs0g7ip7mcQpLE3JsVtBvF3hcsZZ950pGdMM" width="200px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbhYxfG3xUEUw85su9SEsAWxl4Wr8j7y70hb-d5vo1Y8bWVSarQwrE1wJ&s=10" width="400px" />
+
