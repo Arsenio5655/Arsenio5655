@@ -2,11 +2,11 @@
 
 OLA! bem-vindo(a) ao meu perfil. Me chamo <strong>Arthur Henrique</strong>, me conheça lendo mais abaixo 👇 👨🏻‍💻 
 
->🤔 Explorando novas tecnologias.
+• 🤔 Explorando novas tecnologias.
 
->🎓 Estudando Desenvolvimento de Sistemas no Senac Mediotec.
+• 🎓 Estudando Desenvolvimento de Sistemas no Senac Mediotec.
 
->💼 Faço parte da startup ChromaSolar…
+• 💼 Faço parte da startup ChromaSolar…
 **[TOP SECRET!]**
 
 C++ Java JavaScript HTML5 CSS Flutter React React Native Jest MySQL
