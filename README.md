@@ -1,4 +1,4 @@
-<h1 align="center">Arthur</h1>
+<h1 align="center">Arthur H. Henrique</h1>
 
 Eu sou <strong>Arthur</strong>, <strong>Arsenio e apenas um apelido. Gosto de jogar jogos, anime e RPG de mesa.</strong> 👨🏻‍💻 
 
